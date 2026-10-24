@@ -1,0 +1,1 @@
+{"description":"Draft reference implementation: Agentic Ad Transparency & Approval Protocol (AATAP). NOT submitted to any standards body. Held for author + counsel review.","license":"Apache-2.0","main":"src/index.js","name":"agent-ads","scripts":{"demo":"node examples/demo.js","test":"node --test test/agent-ads.test.js"},"type":"module","version":"0.1.0-draft"}
